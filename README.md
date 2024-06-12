@@ -1,4 +1,3 @@
-
 # 📚 AluraBooks - Formulário de Cadastro
 
 ![Screenshot da tela do formulário do AluraBooks](https://imgur.com/bupnUfx.png)
@@ -39,12 +38,15 @@ Para clonar e rodar esta aplicação, você precisará do [Git](https://git-scm.
 
 3. Abra o arquivo `index.html` no seu navegador preferido para visualizar o formulário de cadastro.
 
+## 🌐 Acesse o Projeto
+
+Você pode acessar a aplicação em funcionamento através deste link: [AluraBooks - Formulário de Cadastro](https://cadastro-alura-books-five.vercel.app/)
+
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-
 
 <p align="center">
     <img src="https://github.com/MonicaHillman/js-consumindo-dados-api/blob/aula05/img/Logo.svg" alt="Logo da AluraBooks">
